@@ -18,8 +18,8 @@
   <img src="https://c.top4top.io/p_2069qnvob1.jpg" /></>
 </p>
 
-- 👼 My name is Zeeone 
-- 🗣️ I am 17 years old 
+- 👼 My name RIFKI WANDI APRIYAN
+- 🗣️ I am 16 years old 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
@@ -46,7 +46,7 @@
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/rifkiwandiapriyan)
 
 ## ```Thnaks To```
 
